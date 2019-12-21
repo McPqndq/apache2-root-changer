@@ -1,7 +1,11 @@
 # apache2-root-changer
 This will allow you to change apache2 default root easily
 
-launch : python3 main.py
+
+launch : 
+
+====> pip3 install pathlib
+====> python3 main.py
 
 Only linux is supported, and it was only tested on ubuntu, so report bugs and errors plz !
 
